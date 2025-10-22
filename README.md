@@ -1,1 +1,1 @@
-# progintro-hw0-paraskevilak
+byte0: Αφού συνδεθούμε στο ssh byte0@35.169.96.19 μέσα στον server ψάχνουμε πού βρίσκεται το αρχείο με: ls και cd το όνομα του αρχείου. Αυτή η διαδικασία συνεχίζεται μέχρι να φτάσουμε στο treasure και να κάνουμε cat για να εμφανιστεί το string που ψάχνουμε: you_just_mastered_changing_directories
