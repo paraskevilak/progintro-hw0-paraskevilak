@@ -1,2 +1,3 @@
 paraskevilak.github.io
 byte0: you_just_mastered_changing_directories
+byte1: echo Remember, program output is not a manual page - look elsewhere.
