@@ -1,9 +1,1 @@
 paraskevilak.github.io
-byte0: you_just_mastered_changing_directories
-byte1: echo Remember, program output is not a manual page - look elsewhere.
-byte2: you_will_find_me_out
-byte3: programmers
-byte4: the_triwizard_cup_is_now_yours
-byte5: sdi2500109_1761230577_-335463491_79_167_82_2_63966_22
-byte6: unzipping_is_a_piece_of_cake
-byte7: tar_jokes_cant_stick
